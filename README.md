@@ -1,19 +1,19 @@
 # Build your own Detection Engineering Program
  Don't just write detections, build a program that takes you from 0 to 1 - low to high maturity, involving key players and decision makers, to ingest, process, understand and create measurable and repeatable detects that fits into an overall program for cyber defense
 
-# 🛡️ Proactive Detections Process
+#  Proactive Detections Process
 
 We are aiming to move from **ad-hoc querying** to a **tested, repeatable, measurable** process for detecting threats and plugging visibility gaps in our EDR solution — **Microsoft Defender for Endpoint**.
 
 ---
 
-## 1. 🚀 Introduction: The Opportunity with M365 Security Portal for Proactive Investigations
+## 1. Introduction: The Opportunity with M365 Security Portal for Proactive Investigations
 
 Establishing a robust detection process is crucial for proactively mitigating cyber threats. By leveraging the capabilities of Microsoft 365 Defender, we can build a mature, responsive detection engineering workflow.
 
 ---
 
-## 2. 🧱 Standardized Process for Detection Engineering
+## 2. Standardized Process for Detection Engineering
 
 We will follow the guidelines outlined in **Detection Engineering Maturity Models (DEMMs)** to evolve our processes systematically.
 
@@ -26,7 +26,7 @@ We will follow the guidelines outlined in **Detection Engineering Maturity Model
 
 ---
 
-### 📊 Detection Engineering Maturity Table (Selected Tiers)
+### Detection Engineering Maturity Model Table (Currently only focused on going from Tier 0 to 1. There exist higher levels of maturity that we will address in amendments to this document in the future)
 
 | Feature of Detection Process     | DEBMM Tier 0: Foundation         | DEBMM Tier 1: Basic               |
 |----------------------------------|----------------------------------|-----------------------------------|
